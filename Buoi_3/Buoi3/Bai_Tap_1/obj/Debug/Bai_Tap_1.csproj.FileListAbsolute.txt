@@ -1,0 +1,10 @@
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\bin\Debug\Bai_Tap_1.exe.config
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\bin\Debug\Bai_Tap_1.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\bin\Debug\Bai_Tap_1.pdb
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.csproj.AssemblyReference.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.Form1.resources
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.Properties.Resources.resources
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.csproj.GenerateResource.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.csproj.CoreCompileInputs.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_3\Buoi3\Bai_Tap_1\obj\Debug\Bai_Tap_1.pdb
