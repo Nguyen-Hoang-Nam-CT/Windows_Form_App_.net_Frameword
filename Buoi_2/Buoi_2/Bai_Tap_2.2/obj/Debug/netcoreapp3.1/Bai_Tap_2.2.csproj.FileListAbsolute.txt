@@ -1,0 +1,16 @@
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.deps.json
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.runtimeconfig.json
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.runtimeconfig.dev.json
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.dll
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\bin\Debug\netcoreapp3.1\Bai_Tap_2.2.pdb
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.csproj.AssemblyReference.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.csproj.GenerateResource.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.AssemblyInfoInputs.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.AssemblyInfo.cs
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.csproj.CoreCompileInputs.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.dll
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.pdb
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2.2.genruntimeconfig.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Thuc_Hanh\Buoi_2\Buoi_2\Bai_Tap_2.2\obj\Debug\netcoreapp3.1\Bai_Tap_2._2.Form1.resources
