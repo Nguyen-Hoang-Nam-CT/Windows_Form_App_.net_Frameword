@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Thuc_Hanh\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\Bai_Tap_2.2.csproj",
+      "projectUniqueName": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Windows_Form_App_.net_Frameword\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\Bai_Tap_2.2.csproj",
       "projectName": "Bai_Tap_2.2",
-      "projectPath": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Thuc_Hanh\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\Bai_Tap_2.2.csproj",
+      "projectPath": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Windows_Form_App_.net_Frameword\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\Bai_Tap_2.2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Thuc_Hanh\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\obj\\",
+      "outputPath": "E:\\1_May_Tinh\\5_Mon_Hoc_Ki_5\\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\\2_Lap_Trinh_chamNet\\2_Bai_Tap_Code\\Windows_Form_App_.net_Frameword\\Buoi_2\\Buoi_2\\Bai_Tap_2.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

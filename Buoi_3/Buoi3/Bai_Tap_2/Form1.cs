@@ -20,7 +20,7 @@ namespace Bai_Tap_2
         int[] a;
         private void btnIn_Click(object sender, EventArgs e)
         {
-            if (a.Length == 0)
+                if (a.Length == 0)
             {
                 txtKQ.Text = "Mảng rỗng";
                 return;
@@ -55,7 +55,7 @@ namespace Bai_Tap_2
             }
             a = new int[int.Parse(txtNhap.Text)];
             for(int i = 0; i < a.Length; i++)
-                a[i] = random_(-10, 100);
+                a[i] = new Random().Next(-10, 100);
             btnIn.Enabled = true;
         }
         private void Form1_Load(object sender, EventArgs e)
