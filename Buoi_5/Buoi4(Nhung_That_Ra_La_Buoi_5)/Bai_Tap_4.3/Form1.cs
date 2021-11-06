@@ -40,7 +40,8 @@ namespace Bai_Tap_4._3
             //        txtMau1.Focus();
             //    }
             //    return;
-            //}
+
+            groupBox3.Text = "Kết quả cộng";
             int kqTu = t1 * m2 + t2 * m1,
                 kqMau = m1 * m2;
             PhuongThuc.RutGon(ref kqTu,ref kqMau);
@@ -71,7 +72,8 @@ namespace Bai_Tap_4._3
             //        txtMau1.Focus();
             //    }
             //    return;
-            //}    
+            //}
+            groupBox3.Text = "Kết quả trừ";
             int kqTu = t1 * m2 - t2 * m1,
                 kqMau = m1 * m2;
             PhuongThuc.RutGon(ref kqTu, ref kqMau);
@@ -103,6 +105,7 @@ namespace Bai_Tap_4._3
             //    }
             //    return;
             //}
+            groupBox3.Text = "Kết quả nhân";
             int kqTu = t1 * t2,
                 kqMau = m1 * m2;
             PhuongThuc.RutGon(ref kqTu, ref kqMau);
@@ -134,6 +137,7 @@ namespace Bai_Tap_4._3
             //    }
             //    return;
             //}
+            groupBox3.Text = "Kết quả chia";
             int kqTu = t1 * m2,
                 kqMau = m1 * t2;
             PhuongThuc.RutGon(ref kqTu, ref kqMau);
@@ -169,6 +173,11 @@ namespace Bai_Tap_4._3
                 txtMau2.Text = "";
                 txtMau2.Focus();
             }
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
