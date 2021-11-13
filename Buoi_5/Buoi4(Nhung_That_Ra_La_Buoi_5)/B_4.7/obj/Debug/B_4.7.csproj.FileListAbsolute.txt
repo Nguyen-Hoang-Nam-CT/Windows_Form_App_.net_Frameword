@@ -1,0 +1,10 @@
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4.7.csproj.AssemblyReference.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4._7.Properties.Resources.resources
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4.7.csproj.GenerateResource.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4.7.csproj.CoreCompileInputs.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4._7.Form4_7.resources
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\bin\Debug\B_4.7.exe.config
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\bin\Debug\B_4.7.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\bin\Debug\B_4.7.pdb
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4.7.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\2_Bai_Tap_Code\Windows_Form_App_.net_Frameword\Buoi_5\Buoi4(Nhung_That_Ra_La_Buoi_5)\B_4.7\obj\Debug\B_4.7.pdb

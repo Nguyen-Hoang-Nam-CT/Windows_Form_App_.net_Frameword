@@ -29,7 +29,7 @@ namespace Bai_Tap_2
                 MessageBox.Show("Vui lòng nhập tên người dùng hoặc mật khẩu");
             else
             {
-                if ((this.txtUser.Text == "nguyenvanhung") && (this.txtPass.Text == "abc12345"))
+                if ((this.txtUser.Text == "admin") && (this.txtPass.Text == "P@ssword"))
                 {
                     MessageBox.Show("Đăng nhập thành công", "Thông báo");
                     this.Close();

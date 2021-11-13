@@ -34,6 +34,7 @@ namespace B_4._6
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.txtKetQua = new System.Windows.Forms.TextBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.rbXuatMangNgauNhien = new System.Windows.Forms.RadioButton();
             this.rbDemSoLuongCacGiaTriLeTongMang = new System.Windows.Forms.RadioButton();
             this.rbDemSoLuongCacGiaTriChanTrongMang = new System.Windows.Forms.RadioButton();
             this.rbTinhTongCacGiaTriChanTrongMang = new System.Windows.Forms.RadioButton();
@@ -82,6 +83,7 @@ namespace B_4._6
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.rbXuatMangNgauNhien);
             this.groupBox3.Controls.Add(this.rbDemSoLuongCacGiaTriLeTongMang);
             this.groupBox3.Controls.Add(this.rbDemSoLuongCacGiaTriChanTrongMang);
             this.groupBox3.Controls.Add(this.rbTinhTongCacGiaTriChanTrongMang);
@@ -96,10 +98,22 @@ namespace B_4._6
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Chọn";
             // 
+            // rbXuatMangNgauNhien
+            // 
+            this.rbXuatMangNgauNhien.AutoSize = true;
+            this.rbXuatMangNgauNhien.Location = new System.Drawing.Point(6, 26);
+            this.rbXuatMangNgauNhien.Name = "rbXuatMangNgauNhien";
+            this.rbXuatMangNgauNhien.Size = new System.Drawing.Size(132, 17);
+            this.rbXuatMangNgauNhien.TabIndex = 7;
+            this.rbXuatMangNgauNhien.TabStop = true;
+            this.rbXuatMangNgauNhien.Text = "Xuất mảng ngẫu nhiên";
+            this.rbXuatMangNgauNhien.UseVisualStyleBackColor = true;
+            this.rbXuatMangNgauNhien.CheckedChanged += new System.EventHandler(this.rbXuatMangNgauNhien_CheckedChanged);
+            // 
             // rbDemSoLuongCacGiaTriLeTongMang
             // 
             this.rbDemSoLuongCacGiaTriLeTongMang.AutoSize = true;
-            this.rbDemSoLuongCacGiaTriLeTongMang.Location = new System.Drawing.Point(233, 86);
+            this.rbDemSoLuongCacGiaTriLeTongMang.Location = new System.Drawing.Point(233, 116);
             this.rbDemSoLuongCacGiaTriLeTongMang.Name = "rbDemSoLuongCacGiaTriLeTongMang";
             this.rbDemSoLuongCacGiaTriLeTongMang.Size = new System.Drawing.Size(206, 17);
             this.rbDemSoLuongCacGiaTriLeTongMang.TabIndex = 6;
@@ -110,68 +124,74 @@ namespace B_4._6
             // rbDemSoLuongCacGiaTriChanTrongMang
             // 
             this.rbDemSoLuongCacGiaTriChanTrongMang.AutoSize = true;
-            this.rbDemSoLuongCacGiaTriChanTrongMang.Location = new System.Drawing.Point(233, 56);
+            this.rbDemSoLuongCacGiaTriChanTrongMang.Location = new System.Drawing.Point(233, 86);
             this.rbDemSoLuongCacGiaTriChanTrongMang.Name = "rbDemSoLuongCacGiaTriChanTrongMang";
             this.rbDemSoLuongCacGiaTriChanTrongMang.Size = new System.Drawing.Size(222, 17);
             this.rbDemSoLuongCacGiaTriChanTrongMang.TabIndex = 5;
             this.rbDemSoLuongCacGiaTriChanTrongMang.TabStop = true;
             this.rbDemSoLuongCacGiaTriChanTrongMang.Text = "Đếm số lượng các giá trị chẵn trong mảng";
             this.rbDemSoLuongCacGiaTriChanTrongMang.UseVisualStyleBackColor = true;
+            this.rbDemSoLuongCacGiaTriChanTrongMang.CheckedChanged += new System.EventHandler(this.rbDemSoLuongCacGiaTriChanTrongMang_CheckedChanged);
             // 
             // rbTinhTongCacGiaTriChanTrongMang
             // 
             this.rbTinhTongCacGiaTriChanTrongMang.AutoSize = true;
-            this.rbTinhTongCacGiaTriChanTrongMang.Location = new System.Drawing.Point(233, 26);
+            this.rbTinhTongCacGiaTriChanTrongMang.Location = new System.Drawing.Point(233, 56);
             this.rbTinhTongCacGiaTriChanTrongMang.Name = "rbTinhTongCacGiaTriChanTrongMang";
             this.rbTinhTongCacGiaTriChanTrongMang.Size = new System.Drawing.Size(204, 17);
             this.rbTinhTongCacGiaTriChanTrongMang.TabIndex = 4;
             this.rbTinhTongCacGiaTriChanTrongMang.TabStop = true;
             this.rbTinhTongCacGiaTriChanTrongMang.Text = "Tính tổng các giá trị chẵn trong mảng";
             this.rbTinhTongCacGiaTriChanTrongMang.UseVisualStyleBackColor = true;
+            this.rbTinhTongCacGiaTriChanTrongMang.CheckedChanged += new System.EventHandler(this.rbTinhTongCacGiaTriChanTrongMang_CheckedChanged);
             // 
             // rbTinhTongCacGiaTriLeTrongMang
             // 
             this.rbTinhTongCacGiaTriLeTrongMang.AutoSize = true;
-            this.rbTinhTongCacGiaTriLeTrongMang.Location = new System.Drawing.Point(6, 116);
+            this.rbTinhTongCacGiaTriLeTrongMang.Location = new System.Drawing.Point(233, 26);
             this.rbTinhTongCacGiaTriLeTrongMang.Name = "rbTinhTongCacGiaTriLeTrongMang";
             this.rbTinhTongCacGiaTriLeTrongMang.Size = new System.Drawing.Size(188, 17);
             this.rbTinhTongCacGiaTriLeTrongMang.TabIndex = 3;
             this.rbTinhTongCacGiaTriLeTrongMang.TabStop = true;
             this.rbTinhTongCacGiaTriLeTrongMang.Text = "Tính tổng các giá trị lẻ trong mảng";
             this.rbTinhTongCacGiaTriLeTrongMang.UseVisualStyleBackColor = true;
+            this.rbTinhTongCacGiaTriLeTrongMang.CheckedChanged += new System.EventHandler(this.rbTinhTongCacGiaTriLeTrongMang_CheckedChanged);
             // 
             // rbTimSoChanCuoiCungTrongMang
             // 
             this.rbTimSoChanCuoiCungTrongMang.AutoSize = true;
-            this.rbTimSoChanCuoiCungTrongMang.Location = new System.Drawing.Point(6, 86);
+            this.rbTimSoChanCuoiCungTrongMang.Location = new System.Drawing.Point(6, 116);
             this.rbTimSoChanCuoiCungTrongMang.Name = "rbTimSoChanCuoiCungTrongMang";
             this.rbTimSoChanCuoiCungTrongMang.Size = new System.Drawing.Size(189, 17);
             this.rbTimSoChanCuoiCungTrongMang.TabIndex = 2;
             this.rbTimSoChanCuoiCungTrongMang.TabStop = true;
             this.rbTimSoChanCuoiCungTrongMang.Text = "Tìm số chẵn cuối cùng trong mảng";
             this.rbTimSoChanCuoiCungTrongMang.UseVisualStyleBackColor = true;
+            this.rbTimSoChanCuoiCungTrongMang.CheckedChanged += new System.EventHandler(this.rbTimSoChanCuoiCungTrongMang_CheckedChanged);
             // 
             // rbLietKeCacGiaTriChanTrongMang
             // 
             this.rbLietKeCacGiaTriChanTrongMang.AutoSize = true;
-            this.rbLietKeCacGiaTriChanTrongMang.Location = new System.Drawing.Point(6, 56);
+            this.rbLietKeCacGiaTriChanTrongMang.Location = new System.Drawing.Point(6, 86);
             this.rbLietKeCacGiaTriChanTrongMang.Name = "rbLietKeCacGiaTriChanTrongMang";
             this.rbLietKeCacGiaTriChanTrongMang.Size = new System.Drawing.Size(189, 17);
             this.rbLietKeCacGiaTriChanTrongMang.TabIndex = 1;
             this.rbLietKeCacGiaTriChanTrongMang.TabStop = true;
             this.rbLietKeCacGiaTriChanTrongMang.Text = "Liệt kê các giá trị chẵn trong mảng";
             this.rbLietKeCacGiaTriChanTrongMang.UseVisualStyleBackColor = true;
+            this.rbLietKeCacGiaTriChanTrongMang.CheckedChanged += new System.EventHandler(this.rbLietKeCacGiaTriChanTrongMang_CheckedChanged);
             // 
             // rbTimGiaTriNhoNhatCuaMang
             // 
             this.rbTimGiaTriNhoNhatCuaMang.AutoSize = true;
-            this.rbTimGiaTriNhoNhatCuaMang.Location = new System.Drawing.Point(6, 26);
+            this.rbTimGiaTriNhoNhatCuaMang.Location = new System.Drawing.Point(6, 56);
             this.rbTimGiaTriNhoNhatCuaMang.Name = "rbTimGiaTriNhoNhatCuaMang";
             this.rbTimGiaTriNhoNhatCuaMang.Size = new System.Drawing.Size(165, 17);
             this.rbTimGiaTriNhoNhatCuaMang.TabIndex = 0;
             this.rbTimGiaTriNhoNhatCuaMang.TabStop = true;
             this.rbTimGiaTriNhoNhatCuaMang.Text = "Tìm giá trị nhỏ nhất của mảng";
             this.rbTimGiaTriNhoNhatCuaMang.UseVisualStyleBackColor = true;
+            this.rbTimGiaTriNhoNhatCuaMang.CheckedChanged += new System.EventHandler(this.rbTimGiaTriNhoNhatCuaMang_CheckedChanged);
             // 
             // Form1
             // 
@@ -207,6 +227,7 @@ namespace B_4._6
         private System.Windows.Forms.RadioButton rbTimSoChanCuoiCungTrongMang;
         private System.Windows.Forms.RadioButton rbLietKeCacGiaTriChanTrongMang;
         private System.Windows.Forms.RadioButton rbTimGiaTriNhoNhatCuaMang;
+        private System.Windows.Forms.RadioButton rbXuatMangNgauNhien;
     }
 }
 

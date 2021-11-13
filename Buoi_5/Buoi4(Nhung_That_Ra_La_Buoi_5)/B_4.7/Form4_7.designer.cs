@@ -1,7 +1,7 @@
 ﻿
-namespace _4._7
+namespace B_4._7
 {
-    partial class Form1
+    partial class Form4_7
     {
         /// <summary>
         ///  Required designer variable.
@@ -35,7 +35,7 @@ namespace _4._7
             this.txtNhapMang = new System.Windows.Forms.TextBox();
             this.txtKetQua = new System.Windows.Forms.TextBox();
             this.btnXuatMang = new System.Windows.Forms.Button();
-            this.btnNhapMang = new System.Windows.Forms.Button();
+            this.btnLamLai = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnTong = new System.Windows.Forms.Button();
             this.txtTongLe = new System.Windows.Forms.TextBox();
@@ -52,15 +52,15 @@ namespace _4._7
             this.label7 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.btnSapXep = new System.Windows.Forms.Button();
-            this.rbSapXepGiam = new System.Windows.Forms.RadioButton();
-            this.rbSapXepTang = new System.Windows.Forms.RadioButton();
+            this.rboSapXepGiam = new System.Windows.Forms.RadioButton();
+            this.rboSapXepTang = new System.Windows.Forms.RadioButton();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.btnThayThe = new System.Windows.Forms.Button();
             this.txtSoThayThe = new System.Windows.Forms.TextBox();
             this.txtViTriThayThe = new System.Windows.Forms.TextBox();
-            this.rbSoThayThe = new System.Windows.Forms.RadioButton();
-            this.rbViTriThayThe = new System.Windows.Forms.RadioButton();
             this.btnThoat = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -75,7 +75,6 @@ namespace _4._7
             this.label1.Size = new System.Drawing.Size(90, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Mảng Số Nguyên";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -94,7 +93,6 @@ namespace _4._7
             this.label3.Size = new System.Drawing.Size(46, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Kết Quả";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtNhapMang
             // 
@@ -112,21 +110,23 @@ namespace _4._7
             // 
             // btnXuatMang
             // 
-            this.btnXuatMang.Location = new System.Drawing.Point(447, 41);
+            this.btnXuatMang.Location = new System.Drawing.Point(446, 41);
             this.btnXuatMang.Name = "btnXuatMang";
             this.btnXuatMang.Size = new System.Drawing.Size(87, 45);
             this.btnXuatMang.TabIndex = 5;
             this.btnXuatMang.Text = "Xuất Mảng";
             this.btnXuatMang.UseVisualStyleBackColor = true;
+            this.btnXuatMang.Click += new System.EventHandler(this.btnXuatMang_Click);
             // 
-            // btnNhapMang
+            // btnLamLai
             // 
-            this.btnNhapMang.Location = new System.Drawing.Point(447, 100);
-            this.btnNhapMang.Name = "btnNhapMang";
-            this.btnNhapMang.Size = new System.Drawing.Size(87, 45);
-            this.btnNhapMang.TabIndex = 6;
-            this.btnNhapMang.Text = "Nhập Mảng";
-            this.btnNhapMang.UseVisualStyleBackColor = true;
+            this.btnLamLai.Location = new System.Drawing.Point(447, 100);
+            this.btnLamLai.Name = "btnLamLai";
+            this.btnLamLai.Size = new System.Drawing.Size(87, 45);
+            this.btnLamLai.TabIndex = 6;
+            this.btnLamLai.Text = "Làm Lại";
+            this.btnLamLai.UseVisualStyleBackColor = true;
+            this.btnLamLai.Click += new System.EventHandler(this.btnLamLai_Click);
             // 
             // groupBox1
             // 
@@ -152,6 +152,7 @@ namespace _4._7
             this.btnTong.TabIndex = 6;
             this.btnTong.Text = "Tổng";
             this.btnTong.UseVisualStyleBackColor = true;
+            this.btnTong.Click += new System.EventHandler(this.btnTong_Click);
             // 
             // txtTongLe
             // 
@@ -223,6 +224,7 @@ namespace _4._7
             this.btnTim.TabIndex = 4;
             this.btnTim.Text = "Tìm";
             this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // txtMax
             // 
@@ -259,8 +261,8 @@ namespace _4._7
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.btnSapXep);
-            this.groupBox3.Controls.Add(this.rbSapXepGiam);
-            this.groupBox3.Controls.Add(this.rbSapXepTang);
+            this.groupBox3.Controls.Add(this.rboSapXepGiam);
+            this.groupBox3.Controls.Add(this.rboSapXepTang);
             this.groupBox3.Location = new System.Drawing.Point(38, 322);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(237, 87);
@@ -276,36 +278,37 @@ namespace _4._7
             this.btnSapXep.TabIndex = 2;
             this.btnSapXep.Text = "Sắp Xếp";
             this.btnSapXep.UseVisualStyleBackColor = true;
+            this.btnSapXep.Click += new System.EventHandler(this.btnSapXep_Click);
             // 
-            // rbSapXepGiam
+            // rboSapXepGiam
             // 
-            this.rbSapXepGiam.AutoSize = true;
-            this.rbSapXepGiam.Location = new System.Drawing.Point(6, 52);
-            this.rbSapXepGiam.Name = "rbSapXepGiam";
-            this.rbSapXepGiam.Size = new System.Drawing.Size(93, 17);
-            this.rbSapXepGiam.TabIndex = 1;
-            this.rbSapXepGiam.TabStop = true;
-            this.rbSapXepGiam.Text = "Sắp Xếp Giảm";
-            this.rbSapXepGiam.UseVisualStyleBackColor = true;
+            this.rboSapXepGiam.AutoSize = true;
+            this.rboSapXepGiam.Location = new System.Drawing.Point(6, 52);
+            this.rboSapXepGiam.Name = "rboSapXepGiam";
+            this.rboSapXepGiam.Size = new System.Drawing.Size(93, 17);
+            this.rboSapXepGiam.TabIndex = 1;
+            this.rboSapXepGiam.TabStop = true;
+            this.rboSapXepGiam.Text = "Sắp Xếp Giảm";
+            this.rboSapXepGiam.UseVisualStyleBackColor = true;
             // 
-            // rbSapXepTang
+            // rboSapXepTang
             // 
-            this.rbSapXepTang.AutoSize = true;
-            this.rbSapXepTang.Location = new System.Drawing.Point(6, 20);
-            this.rbSapXepTang.Name = "rbSapXepTang";
-            this.rbSapXepTang.Size = new System.Drawing.Size(94, 17);
-            this.rbSapXepTang.TabIndex = 0;
-            this.rbSapXepTang.TabStop = true;
-            this.rbSapXepTang.Text = "Sắp Xếp Tăng";
-            this.rbSapXepTang.UseVisualStyleBackColor = true;
+            this.rboSapXepTang.AutoSize = true;
+            this.rboSapXepTang.Location = new System.Drawing.Point(6, 20);
+            this.rboSapXepTang.Name = "rboSapXepTang";
+            this.rboSapXepTang.Size = new System.Drawing.Size(94, 17);
+            this.rboSapXepTang.TabIndex = 0;
+            this.rboSapXepTang.TabStop = true;
+            this.rboSapXepTang.Text = "Sắp Xếp Tăng";
+            this.rboSapXepTang.UseVisualStyleBackColor = true;
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.label10);
+            this.groupBox4.Controls.Add(this.label9);
             this.groupBox4.Controls.Add(this.btnThayThe);
             this.groupBox4.Controls.Add(this.txtSoThayThe);
             this.groupBox4.Controls.Add(this.txtViTriThayThe);
-            this.groupBox4.Controls.Add(this.rbSoThayThe);
-            this.groupBox4.Controls.Add(this.rbViTriThayThe);
             this.groupBox4.Location = new System.Drawing.Point(307, 322);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(226, 87);
@@ -321,6 +324,7 @@ namespace _4._7
             this.btnThayThe.TabIndex = 4;
             this.btnThayThe.Text = "Thay Thế";
             this.btnThayThe.UseVisualStyleBackColor = true;
+            this.btnThayThe.Click += new System.EventHandler(this.btnThayThe_Click);
             // 
             // txtSoThayThe
             // 
@@ -336,28 +340,6 @@ namespace _4._7
             this.txtViTriThayThe.Size = new System.Drawing.Size(53, 20);
             this.txtViTriThayThe.TabIndex = 2;
             // 
-            // rbSoThayThe
-            // 
-            this.rbSoThayThe.AutoSize = true;
-            this.rbSoThayThe.Location = new System.Drawing.Point(6, 52);
-            this.rbSoThayThe.Name = "rbSoThayThe";
-            this.rbSoThayThe.Size = new System.Drawing.Size(87, 17);
-            this.rbSoThayThe.TabIndex = 1;
-            this.rbSoThayThe.TabStop = true;
-            this.rbSoThayThe.Text = "Số Thay Thế";
-            this.rbSoThayThe.UseVisualStyleBackColor = true;
-            // 
-            // rbViTriThayThe
-            // 
-            this.rbViTriThayThe.AutoSize = true;
-            this.rbViTriThayThe.Location = new System.Drawing.Point(6, 19);
-            this.rbViTriThayThe.Name = "rbViTriThayThe";
-            this.rbViTriThayThe.Size = new System.Drawing.Size(100, 17);
-            this.rbViTriThayThe.TabIndex = 0;
-            this.rbViTriThayThe.TabStop = true;
-            this.rbViTriThayThe.Text = "Vị Trí Thay Thế";
-            this.rbViTriThayThe.UseVisualStyleBackColor = true;
-            // 
             // btnThoat
             // 
             this.btnThoat.Location = new System.Drawing.Point(208, 439);
@@ -366,8 +348,27 @@ namespace _4._7
             this.btnThoat.TabIndex = 11;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
-            // Form1
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(19, 20);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(70, 13);
+            this.label9.TabIndex = 5;
+            this.label9.Text = "Vị trí thay thế";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(19, 56);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(61, 13);
+            this.label10.TabIndex = 6;
+            this.label10.Text = "Số thay thế";
+            // 
+            // Form4_7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -377,16 +378,18 @@ namespace _4._7
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.btnNhapMang);
+            this.Controls.Add(this.btnLamLai);
             this.Controls.Add(this.btnXuatMang);
             this.Controls.Add(this.txtKetQua);
             this.Controls.Add(this.txtNhapMang);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "Form4_7";
             this.RightToLeftLayout = true;
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form4_7_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -408,7 +411,7 @@ namespace _4._7
         private System.Windows.Forms.TextBox txtNhapMang;
         private System.Windows.Forms.TextBox txtKetQua;
         private System.Windows.Forms.Button btnXuatMang;
-        private System.Windows.Forms.Button btnNhapMang;
+        private System.Windows.Forms.Button btnLamLai;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btnTong;
         private System.Windows.Forms.TextBox txtTongLe;
@@ -425,15 +428,15 @@ namespace _4._7
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button btnSapXep;
-        private System.Windows.Forms.RadioButton rbSapXepGiam;
-        private System.Windows.Forms.RadioButton rbSapXepTang;
+        private System.Windows.Forms.RadioButton rboSapXepGiam;
+        private System.Windows.Forms.RadioButton rboSapXepTang;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Button btnThayThe;
         private System.Windows.Forms.TextBox txtSoThayThe;
         private System.Windows.Forms.TextBox txtViTriThayThe;
-        private System.Windows.Forms.RadioButton rbSoThayThe;
-        private System.Windows.Forms.RadioButton rbViTriThayThe;
         private System.Windows.Forms.Button btnThoat;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label9;
     }
 }
 

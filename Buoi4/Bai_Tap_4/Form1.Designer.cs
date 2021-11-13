@@ -98,7 +98,7 @@ namespace Bai_Tap_4
             // 
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.btnXoa.Location = new System.Drawing.Point(484, 111);
+            this.btnXoa.Location = new System.Drawing.Point(484, 121);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(107, 33);
             this.btnXoa.TabIndex = 3;
@@ -110,7 +110,7 @@ namespace Bai_Tap_4
             // 
             this.btnThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.btnThoat.Location = new System.Drawing.Point(484, 210);
+            this.btnThoat.Location = new System.Drawing.Point(484, 200);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(107, 33);
             this.btnThoat.TabIndex = 4;
